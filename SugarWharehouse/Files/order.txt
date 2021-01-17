@@ -1,0 +1,3 @@
+admin|candy|5kg packs|15|waiting
+boxaber|milk|litre|2|canceled
+admin|cotton candy|kg|21|canceled

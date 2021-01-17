@@ -1,0 +1,3 @@
+Product|Quant|MoD
+Milk|200|5kg packs
+Sugar|1000|10kg packs
